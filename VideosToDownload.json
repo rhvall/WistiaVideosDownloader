@@ -1,0 +1,12 @@
+{
+	"baseURL": "https://fast.wistia.net/embed/iframe/",
+	"lessons": [{
+			"lesson": "Zendesk",
+			"elements": [{
+					"name": "ZendeskDemo",
+					"wistia": "sxpw0wdxff"
+				}
+			]
+		}
+	]
+}
